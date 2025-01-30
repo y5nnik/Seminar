@@ -1,0 +1,20 @@
+case_id;Variant;Customer_ID;Revenue;Costs;Pizza Type;Pizza Size;Customer Satisfaction;Distribution Channel;Customer Location;Customer Type;SORTING;timestamp;activity;Automation;Customer
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;1;15.06.18 09:37;Order by phone;A;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;2;15.06.18 09:40;Start preparing pizza;A;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;3;15.06.18 09:45;Call Customer;A;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;4;15.06.18 09:46;Start preparing pizza;A;
+;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;5;15.06.18 09:53;Start baking pizza;B;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;6;15.06.18 09:54;Baking pizza ready;A;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;7;15.06.18 09:55;Plan route;B;
+1;4;17;10;47;sulami;Small;2;Deliver Now Holding;Munich District One;Teenager;8;15.06.18 09:56;Departure pizza;A;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;9;15.06.18 10:02;Pizza arrives at customer;B;
+1;4;17;10;47;Salami;Small;2;Deliver Now Holding;Munich District One;Teenager;10;15.06.18 10:06;Payment customer;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1554;29.01.18 19:12;Order by phone;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1555;29.01.18 19:14;Start preparing pizza;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1556;29.01.18 19:15;Start baking pizza;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1556;29.01.18 19:15;Start baking pizza;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1557;29.01.18 19:25;Baking pizza ready;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1558;29.01.18 19:28;Plan route;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1559;29.01.18 19:30;Departure pizza;A;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1560;29.01.18 19:33;Pizza arrives at customer;B;
+185;1;123;36;56;Calzone;Large;1;Deliveruu Inc.;Munich District One;Adult;1561;29.01.18 20:03;Payment customer;B;
